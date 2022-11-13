@@ -1,0 +1,5 @@
+PING www.google.cl (172.217.192.94) 56(84) bytes of data.
+
+--- www.google.cl ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2005ms
+rtt min/avg/max/mdev = 15.656/17.114/17.871/1.031 ms
